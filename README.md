@@ -1,4 +1,4 @@
 # Merge Conflicts
 
 
-Some additional details - master branch
+Some additional details - development branch
